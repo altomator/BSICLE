@@ -7,8 +7,9 @@
 Manuscrits numérisés de Gallica :
 - date de publication : 5e-15e siècles (inclus)
 - 3 630 documents
-- Langue : Top 5 / 'lat': 1,575, 'fre': 630, 'chi': 333, 'grc': 328, 'ara': 234
+- Langue (Top 5) : 'lat': 1,575, 'fre': 630, 'chi': 333, 'grc': 328, 'ara': 234
 - Siècles :
+  
 • 5 : 5 (0.1%)
 • 6 : 25 (0.7%)
 • 7 : 37 (1.0%)
