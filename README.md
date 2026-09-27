@@ -90,3 +90,7 @@ Les faux positifs (228, 18%) appartiennent principalement aux catégories suivan
 Dans les faux positifs, on peut noter une présence massive de documents numérisés en niveaux de gris et/ou sur double page.
 La double-page n'est plus lisible en largeur 256 pixels.
 
+### Pages non illustrées
+
+Les faux négatifs (, 18%) 
+
