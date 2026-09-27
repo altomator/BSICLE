@@ -56,3 +56,18 @@ Manuscrits numérisés de Gallica :
 
 ## Analyse
 
+Analyse visuelle des images et détection des faux positifs et faux négatifs.
+
+### Illustrations
+
+Les faux positifs (228) appartiennent principalement aux catégories suivantes :
+
+| Type | Nombre |
+|:--------: |:--------:| 
+|éléments de reliure|	38|
+|mire	|10|
+|transparence	|24|
+|scan	|12|
+|page dégradée|	44|
+|divers	100|
+
