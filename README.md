@@ -25,7 +25,7 @@ Manuscrits numérisés de Gallica :
 
 > Script : download_gallica_images.py
 
-- 194 documents parmi les 3630, 42 481 images
+- [194 documents](data/dataset_194.txt) parmi les 3630, 42 481 images
 - filtrage des manuscrits chinois
 - images IIIF downloadés à 256 pixels de largeur
 
