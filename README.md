@@ -9,7 +9,6 @@ Manuscrits numérisés de Gallica :
 - 3 630 documents
 - Langue (Top 5) : 'lat': 1,575, 'fre': 630, 'chi': 333, 'grc': 328, 'ara': 234
 - Siècles :
-  
 • 5 : 5 (0.1%)
 • 6 : 25 (0.7%)
 • 7 : 37 (1.0%)
@@ -28,10 +27,15 @@ Manuscrits numérisés de Gallica :
 
 - 194 documents parmi les 3630, 42 481 images
 - filtrage des manuscrits chinois
-- images IIIF à 256 pixels de largeur
+- images IIIF downloadés à 256 pixels de largeur
 
 ## Traitement
 
 > Script : infer.py
 
-- inférence avec le modèle 
+- inférence avec le modèle `mobilenetv3_large`
+- seuil à 0.75
+- images copiées dans 2 dossiers après inférence `illustrations/non_illustrations`
+
+## Analyse
+
