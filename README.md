@@ -67,20 +67,26 @@ Les faux positifs (228, 18%) appartiennent principalement aux catégories suivan
 |éléments de reliure|	38|
 |mire	|10|
 |transparence	|24|
-|scan	|12|
+|scan	|14|
 |dégradation|	44|
-|divers |	100|
+|recueils|	47|
+|divers |	51|
+
+
+- Reliure : couverture, tranche, contre-plats, papier orné...
+
+- Mire : mire, microfilm, contrôle couleurs...
+
+- Transparence : les zones illustrées du verso sont visibles sur l'image
+
+- Scan : une partie du scan couvre une zone illustrée sur la page précédente ou suivante
+
+- Dégradation : tâches, perte de matériaux
+  
+- Recueil : éléments de manuscrits recomposés en recueil relié 
+
+- Divers : page blanche, page de texte, lettrine non ornée, double page avec mise en page atypique...
 
 Dans les faux positifs, on peut noter une présence massive de documents numérisés en niveaux de gris et/ou sur double page.
-
-Reliure : 
-
-Mire : 
-
-Transparence : les zones illustrées du verso sont visible sur l'image
-
-Scan : une partie du scan couvre la page précédente ou suivante
-
-Dégradation : tâches, perte de matériaux 
-
+La double-page n'est plus lisible en largeur 256 pixels.
 
