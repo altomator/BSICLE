@@ -8,6 +8,7 @@ Manuscrits numérisés de Gallica :
 - date de publication : 5e-15e siècles (inclus)
 - [3 630 documents](data/dataset_century_5_15.csv)
 - Langue (Top 5) :
+  
 | Langue | Documents | 
 |:--------: |--------:|
 | lat | 1575|
