@@ -62,30 +62,18 @@ Analyse visuelle des images et détection des faux positifs et faux négatifs.
 
 Les faux positifs (228, 18%) appartiennent principalement aux catégories suivantes :
 
-| Type | Nombre |
-|:-------- |--------:| 
-|éléments de reliure|	38|
-|mire	|10|
-|transparence	|24|
-|scan	|14|
-|dégradation|	44|
-|recueils|	47|
-|divers |	51|
+| Type | Nombre | Description |
+|:-------- |--------:| :--------|
+|[Reliure](captures/reliure.png)|	38|   couverture, tranche, contre-plats, papier orné...|
+|[Mire](captures/mire.png) 	|10| mire, microfilm, contrôle couleurs...|
+|[Transparence](captures/transparence.png)	|24|les zones illustrées du verso sont visibles sur l'image |
+|[Scan](captures/scan.png)	|14|une partie du scan couvre une zone illustrée sur la page précédente ou suivante |
+|[Dégradation](captures/degradation.png)|	44| tâches, perte de matériaux...|
+|[Recueil](captures/recueil.png)|	47| éléments de manuscrits recomposés en recueil relié |
+|[Divers](captures/divers.png) |	51| page blanche, page de texte, lettrine non ornée, double page avec mise en page atypique...|
 
 
-- [Reliure](captures/reliure.png) : couverture, tranche, contre-plats, papier orné...
 
-- [Mire](captures/mire.png) : mire, microfilm, contrôle couleurs...
-
-- [Transparence](captures/transparence.png) : les zones illustrées du verso sont visibles sur l'image
-
-- [Scan](captures/scan.png) : une partie du scan couvre une zone illustrée sur la page précédente ou suivante
-
-- [Dégradation](captures/degradation.png) : tâches, perte de matériaux
-  
-- [Recueil](captures/recueil.png) : éléments de manuscrits recomposés en recueil relié 
-
-- [Divers](captures/divers.png) : page blanche, page de texte, lettrine non ornée, double page avec mise en page atypique...
 
 Dans les faux positifs, on peut noter une présence massive de documents numérisés en niveaux de gris et/ou sur double page.
 La double-page n'est plus lisible en largeur 256 pixels.
