@@ -75,17 +75,17 @@ Les faux positifs (228, 18%) appartiennent principalement aux catégories suivan
 
 - [Reliure](captures/reliure.png) : couverture, tranche, contre-plats, papier orné...
 
-- Mire : mire, microfilm, contrôle couleurs...
+- [Mire](captures/mire.png) : mire, microfilm, contrôle couleurs...
 
-- Transparence : les zones illustrées du verso sont visibles sur l'image
+- [Transparence](captures/transparence.png) : les zones illustrées du verso sont visibles sur l'image
 
-- Scan : une partie du scan couvre une zone illustrée sur la page précédente ou suivante
+- [Scan](captures/scan.png) : une partie du scan couvre une zone illustrée sur la page précédente ou suivante
 
-- Dégradation : tâches, perte de matériaux
+- [Dégradation](captures/degradation.png) : tâches, perte de matériaux
   
-- Recueil : éléments de manuscrits recomposés en recueil relié 
+- [Recueil](captures/recueil.png) : éléments de manuscrits recomposés en recueil relié 
 
-- Divers : page blanche, page de texte, lettrine non ornée, double page avec mise en page atypique...
+- [Divers](captures/divers.png) : page blanche, page de texte, lettrine non ornée, double page avec mise en page atypique...
 
 Dans les faux positifs, on peut noter une présence massive de documents numérisés en niveaux de gris et/ou sur double page.
 La double-page n'est plus lisible en largeur 256 pixels.
@@ -93,4 +93,8 @@ La double-page n'est plus lisible en largeur 256 pixels.
 ### Pages non illustrées
 
 Les faux négatifs (, 18%) 
+
+Il n'est pas possible d'identifier précisément les faux négatifs vus le volume d'image, seulement les catégories principales.
+Par ailleurs, le cas frontière des lettres ornées et des ornements rend 
+
 
