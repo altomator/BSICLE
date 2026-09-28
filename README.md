@@ -80,9 +80,15 @@ La double-page n'est plus lisible en largeur 256 pixels.
 
 ### Pages non illustrées
 
-Les faux négatifs (, 18%) 
+Il n'est pas possible d'identifier précisément les faux négatifs considérant le volume d'images, seulement les catégories principales.
+Par ailleurs, le cas frontière des lettres ornées et des ornements rend une analyse formelle difficile.
 
-Il n'est pas possible d'identifier précisément les faux négatifs vus le volume d'image, seulement les catégories principales.
-Par ailleurs, le cas frontière des lettres ornées et des ornements rend 
+| Type |   Description |
+|:-------- | :--------|
+| Illustration | La page inclut des illustrations |
+| Ornement | La page inclut des ornements : filet orné, cadre orné...|
+| Lettrine | La page inclut une lettre ornée, parfois de petite taille |
+
+
 
 
