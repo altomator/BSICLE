@@ -53,7 +53,7 @@ Manuscrits numérisés de Gallica :
   
 | Images | illustrations | non_illustrations | ratio ill. % |
 |:--------: |:--------:| :--------:| :--------:|
-| 42 112     | 1037   | 41075    | 2,5%
+| 42 508    | 1 265   | 41 243    | 3%
 
 ## Analyse
 
@@ -61,7 +61,7 @@ Analyse visuelle des images et détection des faux positifs et faux négatifs.
 
 ### Illustrations
 
-Les [faux positifs](analyse/faux_positifs.txt) (228, 18%) appartiennent principalement aux catégories suivantes :
+Les [faux positifs](analyse/faux_positifs.txt) (228 sur 1 265, 18%) appartiennent principalement aux catégories suivantes :
 
 | Type | Nombre | Description |
 |:-------- |--------:| :--------|
@@ -81,14 +81,14 @@ La double-page n'est plus lisible en largeur 256 pixels.
 
 ### Pages non illustrées
 
-Il n'est pas possible d'identifier précisément les [faux négatifs](analyse/faux_negatifs.txt) considérant le volume d'images, seulement les catégories principales.
+Il n'est pas possible d'identifier précisément les [faux négatifs](analyse/faux_negatifs.txt) considérant le volume d'images, seulement les catégories principales et un échantillon (354 sur 41 243, 0,9%).
 Par ailleurs, le cas frontière des lettres ornées et des ornements rend une analyse formelle difficile.
 
 | Type |   Description |
 |:-------- | :--------|
-| Illustration | La page inclut des illustrations |
+| Illustration | La page inclut des illustrations : enluminures, graphes mathématiques...|
 | Ornement | La page inclut des ornements : filet orné, cadre orné...|
-| Lettrine | La page inclut une lettre ornée, parfois de petite taille |
+| Lettrine | La page inclut une lettre ornée |
 
 
 
