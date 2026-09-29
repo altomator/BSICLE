@@ -61,7 +61,7 @@ Analyse visuelle des images et détection des faux positifs et faux négatifs.
 
 ### Illustrations
 
-Les faux positifs (228, 18%) appartiennent principalement aux catégories suivantes :
+Les [faux positifs](analyse/faux_positifs.txt) (228, 18%) appartiennent principalement aux catégories suivantes :
 
 | Type | Nombre | Description |
 |:-------- |--------:| :--------|
