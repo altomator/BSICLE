@@ -49,6 +49,7 @@ Manuscrits numérisés de Gallica :
 - inférence avec le modèle `mobilenetv3_large`
 - seuil à 0.75
 - images copiées dans 2 dossiers après inférence : `illustrations/non_illustrations`
+- [résultats](analyse/inferences_mobilenetv3_large.csv)
   
 | Images | illustrations | non_illustrations | ratio ill. % |
 |:--------: |:--------:| :--------:| :--------:|
