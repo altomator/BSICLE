@@ -81,7 +81,7 @@ La double-page n'est plus lisible en largeur 256 pixels.
 
 ### Pages non illustrées
 
-Il n'est pas possible d'identifier précisément les faux négatifs considérant le volume d'images, seulement les catégories principales.
+Il n'est pas possible d'identifier précisément les [faux négatifs](analyse/faux_negatifs.txt) considérant le volume d'images, seulement les catégories principales.
 Par ailleurs, le cas frontière des lettres ornées et des ornements rend une analyse formelle difficile.
 
 | Type |   Description |
